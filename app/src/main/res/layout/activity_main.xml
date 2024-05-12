@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_marginTop="16dp"
-        android:text="Notes"
+        android:text="To Do List"
         android:layout_marginStart="18dp"
         android:textColor="@color/orange"
         android:textSize="24sp"/>
